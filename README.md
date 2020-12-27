@@ -6,4 +6,4 @@ Python implementation of Conway's Game of Life
 
 <img src="https://i.ibb.co/zRDXB44/img.png" alt="screenshot"></a>
 
-## :construction: Under construction :construction:
+### :construction: Under construction :construction:
